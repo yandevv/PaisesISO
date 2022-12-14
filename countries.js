@@ -210,7 +210,7 @@ export const isoAlpha2Countries = {
   SJ: "Ilhas Svalbard e Jan Mayen",
   SZ: "Suazilânida",
   SE: "Suécia",
-  CH: "Switzerland",
+  CH: "Suíça",
   SY: "Síria",
   TW: "Taiwan",
   TJ: "Tajiquistão",
@@ -552,7 +552,7 @@ export const countries = [
   },
   { alpha2: "SZ", name: "Suazilânida", alpha3: "SWZ", numeric: "748" },
   { alpha2: "SE", name: "Suécia", alpha3: "SWE", numeric: "752" },
-  { alpha2: "CH", name: "Switzerland", alpha3: "CHE", numeric: "756" },
+  { alpha2: "CH", name: "Suíça", alpha3: "CHE", numeric: "756" },
   { alpha2: "SY", name: "Síria", alpha3: "SYR", numeric: "760" },
   {
     alpha2: "TW",
